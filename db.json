@@ -2,18 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Bienvenue sur Nouno Tech",
-      "body": "Voici mon premier post API personnalisé"
+      "title": "Lerem ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 2,
-      "title": "Flutter est simple",
-      "body": "Apprendre Flutter étape par étape"
+      "title": "Lerem ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 3,
-      "title": "Mini Blog App",
-      "body": "Créer une app avec une API"
+      "title": "Lerem ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
 }
